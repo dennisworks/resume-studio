@@ -4,6 +4,8 @@ A native macOS desktop app for authoring [Typst](https://typst.app/)-based résu
 
 Built with [Tauri 2](https://tauri.app/) (Rust) + React 19 + TypeScript + Vite.
 
+![Resume Studio — file tree, structured editor, and live PDF preview](docs/screenshot.png)
+
 ## Features
 
 - **Structured editor** — edit résumé content as typed fields (summary, skills, experience, certifications, education) backed by a simple JSON schema, or drop to raw Typst for full control.
